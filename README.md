@@ -36,9 +36,6 @@
   <a href="https://www.instagram.com/juniorgontij0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="us_chrono" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/juniorgontijo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -51,15 +48,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=us_chrono&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/juniorgontijo/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/juniorgontijo/juniorgontijo/output/snake.svg" alt="Snake animation" />
 
 ###
